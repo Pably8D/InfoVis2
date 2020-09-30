@@ -17,11 +17,11 @@ Per avviare l'applicativo bisogna eseguire comando seguente all'interno della di
 
 ## Visualizzazione degli incidenti su mappa
 La prima parte del progetto è dedicata alla visualizzazione degli incidenti su mappa. I dati sono stati rappresentati con:
-*Municipi: layer poligonale dei confini amministrativi dei municipi di Roma Capitale
-*Incidenti: layer puntuale che rappresenta il singolo incidente
-*Cluster Map : layer puntuale che consente la visualizzazione degli incidenti clusterizzata per una migliore user experience nella navigazione della mappa
-*Classified Map : layer poligonale, costruito attraverso un'analisi spaziale degli incidenti che ricadono all'interno del poligono municipio
-*Heat Map : Rappresentazione cartografica della densità degli incidenti su mappa
+* Municipi: layer poligonale dei confini amministrativi dei municipi di Roma Capitale
+* Incidenti: layer puntuale che rappresenta il singolo incidente
+* Cluster Map : layer puntuale che consente la visualizzazione degli incidenti clusterizzata per una migliore user experience nella navigazione della mappa
+* Classified Map : layer poligonale, costruito attraverso un'analisi spaziale degli incidenti che ricadono all'interno del poligono municipio
+* Heat Map : Rappresentazione cartografica della densità degli incidenti su mappa
 
 
 ## Visualizzazione della distribuzione su Barchart

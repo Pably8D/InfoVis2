@@ -1,0 +1,21 @@
+{
+	"name": "ws-Infovis2",
+	"version": "1.0.0",
+	"description": "Example using OpenLayers with Parcel",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "parcel public/index.html",
+		"build": "parcel build --public-url . public/**"
+	},
+	"devDependencies": {
+		"parcel-bundler": "^1.12.4",
+		"sass": "^1.26.11"
+	},
+	"dependencies": {
+		"d3": "^6.2.0",
+		"d3-collection": "^1.0.7",
+		"load-json-file": "^6.2.0",
+		"ol": "^6.4.3",
+		"startbootstrap-sb-admin-2": "^4.1.1"
+	}
+}

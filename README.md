@@ -26,9 +26,9 @@ La prima parte del progetto è dedicata alla visualizzazione degli incidenti su 
 
 ## Visualizzazione della distribuzione su Barchart
 Al fine di offrire anche una visualizzazione grafica oltre che cartografica, sono stati implentati i seguenti 3 istogrammi:
-*Distribuzione incidenti per municipio
-*Distribuzione incidenti per giorno
-*Distribuzione incidenti per fascia oraria
+* Distribuzione incidenti per municipio
+* Distribuzione incidenti per giorno
+* Distribuzione incidenti per fascia oraria
 
 
 ## Osservazioni
